@@ -1,0 +1,177 @@
+[
+    {
+      "name": "Apple_Scab",
+      "precautions": ["Regularly prune and dispose of infected leaves.", "Apply fungicides during the growing season."],
+      "cure": "Apply appropriate fungicides as recommended."
+    },
+    {
+      "name": "Apple_BlackRot",
+      "precautions": ["Use fungicides to prevent and control the disease.", "Remove and destroy infected plant material."],
+      "cure": "Apply fungicides and maintain good orchard hygiene."
+    },
+    {
+      "name": "Apple_CedarAppleRust",
+      "precautions": ["Plant resistant apple varieties.", "Apply fungicides during wet seasons."],
+      "cure": "Use fungicides and remove cedar trees in the vicinity."
+    },
+    {
+      "name": "Apple_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for a healthy apple plant."
+    },
+    {
+      "name": "Cherry_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for a healthy cherry plant."
+    },
+    {
+      "name": "Cherry_powdered_milddew",
+      "precautions": ["Apply fungicides during the growing season.", "Properly space and prune trees for good air circulation."],
+      "cure": "Use fungicides and improve air circulation."
+    },
+    {
+      "name": "Corn(Maize)_GreyLeafSpot",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Use resistant corn varieties."],
+      "cure": "Apply fungicides and practice crop rotation."
+    },
+    {
+      "name": "Corn_CommonRust",
+      "precautions": ["Plant resistant corn varieties.", "Remove and destroy infected plant material."],
+      "cure": "Apply fungicides and practice crop rotation."
+    },
+    {
+      "name": "Corn_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy corn."
+    },
+    {
+      "name": "Corn_NorthernLeafBlight",
+      "precautions": ["Rotate crops and avoid planting corn in consecutive years.", "Use resistant corn varieties."],
+      "cure": "Apply fungicides and practice crop rotation."
+    },
+    {
+      "name": "Grape_BlackRot",
+      "precautions": ["Apply fungicides during the growing season.", "Prune vines for better air circulation."],
+      "cure": "Use fungicides and improve vine pruning."
+    },
+    {
+      "name": "Grape_Esca(BlackMeasles)",
+      "precautions": ["Prune vines during the dormant season.", "Apply fungicides to prevent infection."],
+      "cure": "Prune infected vines and apply appropriate fungicides."
+    },
+    {
+      "name": "Grape_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy grapevines."
+    },
+    {
+      "name": "Grape_LeafBlight(IsariopsisLeafSpot)",
+      "precautions": ["Apply fungicides during the growing season.", "Prune vines for better air circulation."],
+      "cure": "Use fungicides and improve vine pruning."
+    },
+    {
+      "name": "Orange_haunglongbing(Citrus_greening)",
+      "precautions": ["Control the Asian citrus psyllid vector.", "Remove and destroy infected trees."],
+      "cure": "No cure, affected trees should be removed and destroyed."
+    },
+    {
+      "name": "Peach_BacterialSpot",
+      "precautions": ["Apply copper-based sprays during the growing season.", "Prune trees to improve air circulation."],
+      "cure": "Use copper-based fungicides and maintain good tree hygiene."
+    },
+    {
+      "name": "Peach_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for a healthy peach tree."
+    },
+    {
+      "name": "Pepper_Bacterial_Spot",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Apply copper-based sprays during the growing season."],
+      "cure": "Use copper-based fungicides and practice crop rotation."
+    },
+    {
+      "name": "Pepper_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy pepper plants."
+    },
+    {
+      "name": "Potato_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy potato plants."
+    },
+    {
+      "name": "Potato_EarlyBright",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and practice crop rotation."
+    },
+    {
+      "name": "Potato_LateBright",
+      "precautions": ["Use resistant potato varieties.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and plant resistant varieties."
+    },
+    {
+      "name": "Squash_PowderyMilddew",
+      "precautions": ["Apply fungicides preventatively.", "Space plants for good air circulation."],
+      "cure": "Use fungicides and improve air circulation."
+    },
+    {
+      "name": "Strawberry_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy strawberries."
+    },
+    {
+      "name": "Strawberry_LeafScorch",
+      "precautions": ["Remove and destroy infected leaves.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and remove infected leaves."
+    },
+    {
+      "name": "Tomato_BacterialSpot",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Apply copper-based sprays during the growing season."],
+      "cure": "Use copper-based fungicides and practice crop rotation."
+    },
+    {
+      "name": "Tomato_Healthy",
+      "precautions": [],
+      "cure": "No specific precautions or cure required for healthy tomatoes."
+    },
+    {
+      "name": "Tomato_EarlyBlight",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and practice crop rotation."
+    },
+    {
+      "name": "Tomato_Late_Blight",
+      "precautions": ["Use resistant tomato varieties.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and plant resistant varieties."
+    },
+    {
+      "name": "Tomato_mosaic_virus",
+      "precautions": ["Control insect vectors.", "Remove and destroy infected plants."],
+      "cure": "No cure, remove and destroy infected plants."
+    },
+    {
+      "name": "Tomato_YellowLeaf_curl_virus",
+      "precautions": ["Control whitefly vectors.", "Remove and destroy infected plants."],
+      "cure": "No cure, remove and destroy infected plants."
+    },
+    {
+      "name": "Tomato_LeafMold",
+      "precautions": ["Provide good air circulation.", "Apply fungicides preventatively."],
+      "cure": "Use fungicides and improve air circulation."
+    },
+    {
+      "name": "Tomato_Target_spot",
+      "precautions": ["Rotate crops to reduce pathogen build-up.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and practice crop rotation."
+    },
+    {
+      "name": "Tomato_Septoria_Leaf_spot",
+      "precautions": ["Remove and destroy infected leaves.", "Apply fungicides during the growing season."],
+      "cure": "Use fungicides and remove infected leaves."
+    },
+    {
+      "name": "Tomato_Spider_Mites",
+      "precautions": ["Use miticides to control spider mite populations.", "Maintain good plant hygiene."],
+      "cure": "Use miticides and improve plant hygiene."
+    }
+]
